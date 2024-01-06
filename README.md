@@ -11,19 +11,19 @@ While extracting text, please make sure your program extracts only the article t
 For each of the extracted texts from the article, perform textual analysis and compute variables, given in the output structure excel file. You need to save the output in the exact order as given in the output structure file, “Output Data Structure.xlsx”
 3. Variables
 Find:  
-  -POSITIVE SCORE
-  -NEGATIVE SCORE
-  -POLARITY SCORE
--SUBJECTIVITY SCORE
--AVG SENTENCE LENGTH
--PERCENTAGE OF COMPLEX WORDS
--FOG INDEX
--AVG NUMBER OF WORDS PER SENTENCE
--COMPLEX WORD COUNT
--WORD COUNT
--SYLLABLE PER WORD
--PERSONAL PRONOUNS
--AVG WORD LENGTH
+\-POSITIVE SCORE\
+\-NEGATIVE SCORE\
+\-POLARITY SCORE\
+\-SUBJECTIVITY SCORE\
+\-AVG SENTENCE LENGTH\
+\-PERCENTAGE OF COMPLEX WORDS\
+\-FOG INDEX\
+\-AVG NUMBER OF WORDS PER SENTENCE\
+\-COMPLEX WORD COUNT\
+\-WORD COUNT\
+\-SYLLABLE PER WORD\
+\-PERSONAL PRONOUNS\
+\-AVG WORD LENGTH\
 4. Output Data Structure
 Output Variables: 
 All input variables in “Input.xlsx”
