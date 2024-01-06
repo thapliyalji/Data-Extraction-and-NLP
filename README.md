@@ -82,7 +82,7 @@ Examples of the process or outputs. In analytics, these can be images of visuali
 # Tecnologies
 The completion of the project involved the use of several technologies, demonstrating proficiency in a variety of tools. Here’s a list of the key technologies used:
 
-Python: Python was the primary programming language used for this project. Its extensive library support and easy-to-read syntax make it a popular choice for data analysis projects.
+'''Python''': Python was the primary programming language used for this project. Its extensive library support and easy-to-read syntax make it a popular choice for data analysis projects.
 
 Pandas: This Python library was used for data manipulation and analysis. It provides data structures and functions needed to manipulate structured data.
 
