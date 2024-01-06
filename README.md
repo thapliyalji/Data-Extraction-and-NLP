@@ -82,21 +82,19 @@ Examples of the process or outputs. In analytics, these can be images of visuali
 # Tecnologies
 The completion of the project involved the use of several technologies, demonstrating proficiency in a variety of tools. Here’s a list of the key technologies used:
 
-'''Python''': Python was the primary programming language used for this project. Its extensive library support and easy-to-read syntax make it a popular choice for data analysis projects.
+**Python**: Python was the primary programming language used for this project. Its extensive library support and easy-to-read syntax make it a popular choice for data analysis projects.
 
-Pandas: This Python library was used for data manipulation and analysis. It provides data structures and functions needed to manipulate structured data.
+**Pandas**: This Python library was used for data manipulation and analysis. It provides data structures and functions needed to manipulate structured data.
 
-NumPy: Another Python library, NumPy was used for numerical computations.
+**NumPy**: Another Python library, NumPy was used for numerical computations.
 
-BeautifulSoup: This Python library was used for web scraping purposes to extract the articles from the provided URLs.
+**BeautifulSoup**: This Python library was used for web scraping purposes to extract the articles from the provided URLs.
 
-NLTK (Natural Language Toolkit): This is a Python library used for working with human language data. It provides easy-to-use interfaces for over 50 corpora and lexical resources.
+**NLTK (Natural Language Toolkit)**: This is a Python library used for working with human language data. It provides easy-to-use interfaces for over 50 corpora and lexical resources.
 
-Scikit-learn: This Python library was used for machine learning and statistical modeling including classification, regression, clustering, and dimensionality reduction.
+**Jupyter Notebook**: Jupyter Notebook was used as the IDE (Integrated Development Environment) for coding in Python and presenting the results.
 
-Jupyter Notebook: Jupyter Notebook was used as the IDE (Integrated Development Environment) for coding in Python and presenting the results.
-
-GitHub: GitHub was used for version control and source code management.
+**GitHub**: GitHub was used for version control and source code management.
 
 These technologies were instrumental in the successful completion of the project, and I am proficient in using these tools. They represent a small subset of the tools available for data analysis and text processing, and I’m always open to learning and using new technologies as required by the project.
 # Setup
