@@ -78,8 +78,14 @@ Time Series Analysis: If the articles are timestamped, it would be interesting t
 
 These enhancements would not only add depth to the current analysis but also open up new avenues of exploration and understanding. They represent exciting opportunities for future work in the field of text analysis.
 # Screenshort of visuallization/Results
-!project1 
+![project3](https://github.com/thapliyalji/project/assets/114352433/45d44ffe-82f8-4003-bb4d-0e47a0521f42)  
+![project2](https://github.com/thapliyalji/project/assets/114352433/ae3cf5a7-e4a8-420d-8d82-60a0057e87ed)
+![project1](https://github.com/thapliyalji/project/assets/114352433/379ddb1a-4e00-4cff-bc4f-535062c678a2)
+![excel2](https://github.com/thapliyalji/project/assets/114352433/c350acd4-4425-4603-9bed-46f85fb0fd96)
+![excel](https://github.com/thapliyalji/project/assets/114352433/46d93b8b-87b4-45b7-8895-5bacaf648109)
+
 # Tecnologies
+
 The completion of the project involved the use of several technologies, demonstrating proficiency in a variety of tools. Here’s a list of the key technologies used:
 
 **Python**: Python was the primary programming language used for this project. Its extensive library support and easy-to-read syntax make it a popular choice for data analysis projects.
