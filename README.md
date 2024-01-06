@@ -78,7 +78,7 @@ Time Series Analysis: If the articles are timestamped, it would be interesting t
 
 These enhancements would not only add depth to the current analysis but also open up new avenues of exploration and understanding. They represent exciting opportunities for future work in the field of text analysis.
 # Screenshort of visuallization/Results
-Examples of the process or outputs. In analytics, these can be images of visualizations.
+!project1 
 # Tecnologies
 The completion of the project involved the use of several technologies, demonstrating proficiency in a variety of tools. Here’s a list of the key technologies used:
 
